@@ -1,2 +1,2 @@
-# Bomb-Party-BOT
-bot for bomb party
+# BombParty-Bot
+A bot for automatically playing the BombParty mode in https://jklm.fun/
